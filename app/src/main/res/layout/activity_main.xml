@@ -6,12 +6,13 @@
     android:gravity="center"
     android:orientation="vertical"
     tools:context="com.example.android.takehomeassignment07_christinabest.MainActivity">
+
     <TextView
         android:id="@+id/question_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="24dp"
-        android:text="@string/question_australia" />
+        android:text="@string/question_blackpanther" />
 
     <LinearLayout
         android:layout_width="wrap_content"
